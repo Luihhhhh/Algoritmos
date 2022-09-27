@@ -1,4 +1,3 @@
-#Aldahir
-##Algoritmos de Pseudocodigo
-##
-## 2022
+# Aldahir
+### Algoritmos de Pseudocodigo
+### 2022
